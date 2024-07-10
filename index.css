@@ -32,8 +32,18 @@ label {
     flex-direction: column;
     font-style: italic;
     font-weight: bold;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
+
+.inputlabel {
+    transform: translateY(1rem);
+    margin: 0px 10px;
+    padding: 0px 5px;
+    background-color: white;
+    white-space: nowrap;
+    display: table;
+}
+    
 
 input {
     padding: 10px;
