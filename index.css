@@ -9,8 +9,6 @@ body {
     height: 100vh;
     margin: 0;
 }
-
-
 .form-container {
     background: rgb(151, 161, 194);
     padding: 50px;
@@ -26,7 +24,6 @@ body {
 .form-group {
     margin-bottom: 15px;
 }
-
 label {
     display: flex;
     flex-direction: column;
@@ -34,7 +31,6 @@ label {
     font-weight: bold;
     font-size: 1.1rem;
 }
-
 .inputlabel {
     transform: translateY(1rem);
     margin: 0px 10px;
